@@ -1,0 +1,37 @@
+{
+	"Items": [{
+		"Cat": "Crime",
+		"SubCat": ["Theft/Robbery",
+		"Murder",
+		"Rape",
+		"Abduction",
+		"Suspicious Event",
+		"Other "]
+	},
+	{
+		"Cat": "Traffic",
+		"SubCat": ["Hit and Run",
+		"Driving Under Influence",
+		"Over Speeding",
+		"Fatal Crash",
+		"Wrong Entry",
+		"With Out Helment/ Seatbelt Entry"]
+	},
+	{
+		"Cat": "Harassment",
+		"SubCat": ["trespassing",
+		"Sexal abuse",
+		"peeping tom",
+		"domestic dispute",
+		"Others"]
+	},
+	{
+		"Cat": "Corruption",
+		"SubCat": ["Bridery",
+		"Other"]
+	},
+	{
+		"Cat": "Emergeny",
+		"SubCat": ["Other"]
+	}]
+}
